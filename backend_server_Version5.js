@@ -1,0 +1,6 @@
+// ...otros imports y código...
+const adminUser = { 
+  username: 'matiasmatias5000@gmail.com', // Usamos el correo como usuario
+  password: 'Sergio501@40'
+};
+// El resto del código queda igual...
